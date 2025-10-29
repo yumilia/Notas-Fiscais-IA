@@ -1,0 +1,53 @@
+{
+  "ide": {
+    "numero_nf": "12345",
+    "serie": "1",
+    "data_emissao": "20/10/2025"
+  },
+  "emitente": {
+    "nome": "EMPRESA EMITENTE LTDA",
+    "cnpj": "11222333000144"
+  },
+  "destinatario": {
+    "nome": "EMPRESA DESTINATARIO SA",
+    "cnpj_cpf": "55666777000188"
+  },
+  "totais": {
+    "valor_total_produtos": 150.00,
+    "valor_total_nf": 150.00
+  },
+  "itens": [
+    {
+      "codigo_produto": "P001",
+      "descricao": "PRODUTO DE TESTE 1",
+      "ncm": "00000000",
+      "cfop": "5102",
+      "unidade": "UN",
+      "quantidade": 2.0,
+      "valor_unitario": 50.00,
+      "valor_total": 100.00,
+      "base_calculo_icms": 100.00,
+      "valor_icms": 0.00,
+      "aliquota_icms": 0.00,
+      "valor_ipi": 0.00
+    },
+    {
+      "codigo_produto": "P002",
+      "descricao": "PRODUTO DE TESTE 2",
+      "ncm": "00000000",
+      "cfop": "5102",
+      "unidade": "UN",
+      "quantidade": 1.0,
+      "valor_unitario": 50.00,
+      "valor_total": 50.00,
+      "base_calculo_icms": 50.00,
+      "valor_icms": 0.00,
+      "aliquota_icms": 0.00,
+      "valor_ipi": 0.00
+    }
+  ],
+  "transporte": {
+    "modalidade_frete": "9"
+  },
+  "chave_acesso": "43211011222333000144550010000123451000000001"
+}

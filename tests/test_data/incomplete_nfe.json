@@ -1,0 +1,12 @@
+{
+  "ide": {
+    "numero_nf": "54321",
+    "serie": "2"
+  },
+  "emitente": {
+    "nome": "EMPRESA SEM CNPJ"
+  },
+  "destinatario": {
+    "nome": "CLIENTE QUALQUER"
+  }
+}

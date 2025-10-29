@@ -1,0 +1,17 @@
+langchain
+langchain-pymupdf4llm
+langchain-community
+langchain-experimental
+langchain-openai
+langchain-google-genai
+langchain-ollama
+#langchain-pinecone
+langchainhub
+python-dotenv
+pytest
+pytest-csv-params
+pynfe
+pynfe[nfse]
+unstructured
+xmltodict
+google-generativeai
